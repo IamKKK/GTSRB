@@ -2,12 +2,12 @@
 
 ### Code description
 ##### 1. TRANSFER .ppm to .jpg: 
-PPMtoJPG_all.py #training dataset    
+PPMtoJPG_all.py      
 dataset:      
 All training .ppm dataset      
 
 ##### 2. CREATE .lmdb 
-create_lmdb_all.py #training and testing datasets in training        
+create_lmdb_all.py           
 dataset:          
 All training .jpg images 
 
